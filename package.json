@@ -5,7 +5,7 @@
   "main": "index.ts",
   "repository": "git@github.com:MorayM/radac.git",
   "author": "moray.macdonald1@gmail.com",
-  "license": "GPLv3",
+  "license": "MIT",
   "private": false,
   "dependencies": {},
   "devDependencies": {
