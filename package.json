@@ -1,0 +1,14 @@
+{
+  "name": "radac",
+  "version": "1.0.0",
+  "description": "A place to keep all the handy utility functions I've written over the years",
+  "main": "index.ts",
+  "repository": "git@github.com:MorayM/radac.git",
+  "author": "moray.macdonald1@gmail.com",
+  "license": "GPLv3",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
